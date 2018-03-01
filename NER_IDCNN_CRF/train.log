@@ -1,0 +1,4 @@
+2018-02-28 09:04:05,206 - train.log - INFO - Reading model parameters from ckpt_IDCNN/ner.ckpt
+2018-02-28 17:06:06,725 - train.log - INFO - Reading model parameters from ckpt_IDCNN/ner.ckpt
+2018-02-28 09:13:37,937 - train.log - INFO - Reading model parameters from ckpt_IDCNN/ner.ckpt
+2018-02-28 09:14:29,564 - train.log - INFO - Reading model parameters from ckpt_IDCNN/ner.ckpt
